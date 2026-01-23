@@ -1,0 +1,23 @@
+[2025-12-01 12:53:57] admin (LOGIN): Successful login
+[2026-01-23 15:06:03] admin (LOGIN): Successful login
+[2026-01-23 15:29:11] admin (LOGIN): Successful login
+[2026-01-23 15:30:58] admin (LOGIN): Successful login
+[2026-01-23 15:31:53] admin (PROCESS_DOCUMENTS): Processed 1 files
+[2026-01-23 15:31:58] admin (UPLOAD_DOCUMENTS): Uploaded 1 files
+[2026-01-23 15:32:03] admin (UPLOAD_AND_PROCESS): Uploaded and processed 1 files
+[2026-01-23 15:32:11] admin (DELETE_DOCUMENT): Removed SCHEME16012026_A.pdf
+[2026-01-23 15:32:17] admin (GENERATE_QUESTIONS): For SCHEME16012026_A.pdf
+[2026-01-23 15:32:22] admin (ASK_QUESTION): Q: What is the main topic?...
+[2026-01-23 15:45:35] admin (LOGIN): Successful login
+[2026-01-23 15:47:01] admin (LOGOUT): User logged out
+[2026-01-23 15:50:10] admin (LOGIN): Successful login
+[2026-01-23 15:50:32] admin (GENERATE_QUESTIONS): For SCHEME16012026_A.pdf
+[2026-01-23 15:51:23] admin (GENERATE_FAQ): SCHEME16012026_A.pdf
+[2026-01-23 15:51:35] admin (ASK_QUESTION): Q: Can you explain this in simpler terms?...
+[2026-01-23 15:56:52] admin (LOGIN): Successful login
+[2026-01-23 16:34:53] admin (GENERATE_QUESTIONS): For SCHEME16012026_A.pdf
+[2026-01-23 16:36:30] admin (GENERATE_SUMMARY): SCHEME16012026_A.pdf
+[2026-01-23 16:37:23] admin (ASK_QUESTION): Q: What is Scheme aimed at?...
+[2026-01-23 16:45:27] admin (ASK_QUESTION): Q: What is Scheme aimed at?...
+[2026-01-23 16:46:36] admin (LOGOUT): User logged out
+[2026-01-23 16:46:52] user1 (LOGIN): Successful login

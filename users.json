@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "Admin",
+    "name": "Administrator"
+  },
+  "user1": {
+    "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+    "role": "User",
+    "name": "Regular User"
+  },
+  "teamlead": {
+    "password": "5830aa9ba1fd7843c92fd956cb640604e6d3bff683ddeeac778e0af21089a303",
+    "role": "Admin",
+    "name": "Team Lead"
+  }
+}
